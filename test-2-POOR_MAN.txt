@@ -1,0 +1,14 @@
+# test
+quiver 8 health 22 seed 123456 randomdist 42 randomspeed 15 randomhealth 8
+---
+round 1
+random 0
+n 1
+
+juett2 distance 10 speed: 5 health: 2
+---
+r 3
+r 0
+n 1
+
+paoletti d 20 s 9 health: 1

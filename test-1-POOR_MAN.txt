@@ -1,0 +1,15 @@
+# test 
+quiver 7
+health 24
+seed 123743
+randomdist 60
+randomspeed 30
+randomhealth 5
+---
+r 4
+r 15
+named 2
+
+paoletti distance: 15 speed: 15 health: 4
+darden distance 20 speed 20 health 5
+
